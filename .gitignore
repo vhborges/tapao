@@ -1,0 +1,8 @@
+# virtualenv folder
+venv/
+
+# python cache
+__pycache__/
+
+# vim config
+.vim
